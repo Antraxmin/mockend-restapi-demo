@@ -1,0 +1,8 @@
+{
+    "shop": "식당이름",
+    "menu": [
+        {"name": "소주", "count":6, "price":30000, "people":["지영", "윤섭", "민혁"]},
+        {"name": "안주", "count":1, "price":20000, "people":["윤섭", "하늘"]},
+        {"name": "맥주", "count":1, "price":5000, "people":["재원"]}
+    ]
+}
